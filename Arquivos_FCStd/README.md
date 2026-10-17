@@ -2,6 +2,8 @@
 
 Esta pasta reúne a modelagem paramétrica tridimensional do mini rack/servidor Lenovo ThinkCentre Edge 72. Os componentes foram construídos no FreeCAD usando as bancadas **Sketcher**, **Part Design** e **Part**. O objetivo é representar tanto os elementos individuais quanto sua integração no gabinete, formando o Gêmeo Digital do conjunto.
 
+**Responsável:** Tiago de Aquino Nunes
+
 > **Formato:** `.FCStd`, formato nativo de documento do FreeCAD.  
 > **Observação:** os arquivos representam modelos de engenharia do projeto; dimensões e detalhes devem ser conferidos no próprio documento e nas pranchas correspondentes antes de qualquer fabricação.
 

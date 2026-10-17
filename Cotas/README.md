@@ -2,6 +2,8 @@
 
 Esta pasta contém as pranchas em PDF produzidas na bancada **TechDraw** do FreeCAD. As folhas foram configuradas no formato padronizado **A3** e apresentam, conforme aplicável a cada componente, vistas ortográficas, vista isométrica, cotas dimensionais, escala e legenda técnica.
 
+**Responsável:** Tiago de Aquino Nunes
+
 ## Pranchas disponíveis
 
 | Arquivo encontrado | Componente representado |
