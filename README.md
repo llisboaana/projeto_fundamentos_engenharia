@@ -107,7 +107,7 @@ O estudo também considera a **ISO/IEC 30134-2** no contexto de indicadores de e
 |---|---|
 | [`Arquivos_FCStd/`](Arquivos_FCStd/README.md) | Modelos FreeCAD dos componentes e montagem do Gêmeo Digital. |
 | [`Cotas/`](Cotas/README.md) | Pranchas PDF produzidas no TechDraw e referências de desenho técnico. |
-| [Notebook Google Colab](https://colab.research.google.com/drive/1X3opMWMkOxm0MP2yfDHxNptV3Cb9l-x2) | Análises, gráficos e simulações em Python. |
+| [Notebook Google Colab](https://colab.research.google.com/drive/1X3opMWMkOxm0MP2yfDHxNptV3Cb9l-x2?usp=sharing) | Análises, gráficos e simulações em Python. |
 
 ## Como explorar
 
