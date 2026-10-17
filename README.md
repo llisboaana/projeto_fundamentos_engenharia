@@ -7,7 +7,7 @@
 [![Modelagem](https://img.shields.io/badge/Modelagem-FreeCAD-2b7a78)](Arquivos_FCStd/README.md)
 [![Desenhos técnicos](https://img.shields.io/badge/Desenhos-PDF%20%2F%20TechDraw-6b5b95)](Cotas/README.md)
 
-**Autores:** Ana Carolina Lisboa, Ana Luíza Lagos e Tiago de Aquino Nunes
+**Autores:** Ana Carolina Lisboa, Ana Luíza Lagos e Tiago de Aquino Nunes.
 
 ## Visão geral
 
