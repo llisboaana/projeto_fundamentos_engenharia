@@ -1,5 +1,7 @@
 # Simulação térmica com o Energy2D
 
+*Autora:* Ana Carolina Lopes Lisboa ([@llisboaana](https://github.com/llisboaana)) · Engenharia térmica
+
 > Projeto: Mini Rack/Data Center doméstico ou de laboratório: dissipação de calor, modelagem 3D e sustentabilidade
 > Disciplinas: Fenômenos de Transporte e Ciências do Ambiente (CEUB)
 
